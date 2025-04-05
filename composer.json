@@ -1,0 +1,19 @@
+{
+    "name": "yousefkadah/php-laravel-ai",
+    "description": "Specialized AI model for PHP and Laravel using RubixML",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Yousef Kadah"
+        }
+    ],
+    "require": {
+        "rubix/ml": "^2.0",
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
