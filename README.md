@@ -21,7 +21,7 @@ A specialized AI model for PHP and Laravel development assistance using RubixML,
 ### Via Composer
 
 ```bash
-composer require user/php-laravel-ai
+composer require yousefkadah/php-laravel-ai
 ```
 
 ### Laravel Integration
